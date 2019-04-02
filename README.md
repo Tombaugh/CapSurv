@@ -1,5 +1,5 @@
 # CapSurv
-code for 《CapSurv: Capsule Network for Survival Analysis With Whole Slide Pathological Images》
+code for **《CapSurv: Capsule Network for Survival Analysis With Whole Slide Pathological Images》**
 
 # Environment
 
