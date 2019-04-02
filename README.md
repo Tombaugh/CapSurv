@@ -30,5 +30,5 @@ test_label_onehot.npy: the one hot encoding of long or short term survivors of t
 Use below instruction to run the code
 
 ```
-python CapSurv.py
+python capsurv.py
 ```
