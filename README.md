@@ -3,7 +3,7 @@ code for 《CapSurv: Capsule Network for Survival Analysis With Whole Slide Path
 
 # Environment
 
-python 2.7 Keras 2.1.4 tensorflow 1.5.0
+python 2.7  Keras 2.1.4 tensorflow 1.5.0
 
 GPU: 2*1080Ti
 
@@ -29,4 +29,6 @@ test_label_onehot.npy: the one hot encoding of long or short term survivors of t
 # Usage
 Use below instruction to run the code
 
+'''
 python CapSurv.py
+'''
